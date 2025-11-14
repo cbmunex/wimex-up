@@ -1,0 +1,253 @@
+{
+  "course": {
+    "title": "English Avatar Course",
+    "description": "Aprenda inglês do básico ao intermediário com um professor virtual avatar realista",
+    "levels": [
+      {
+        "level": "basic",
+        "title": "Nível Básico",
+        "description": "Construa uma base sólida de vocabulário e estruturas gramaticais simples",
+        "modules": [
+          {
+            "id": 1,
+            "moduleNumber": 1,
+            "title": "Primeiros Passos",
+            "description": "Saudações, apresentações e informações pessoais básicas",
+            "focusArea": "Saudações, apresentações e informações pessoais básicas",
+            "grammarFocus": "Verbo 'To Be' (Afirmativa, Negativa, Interrogativa). Pronomes Pessoais",
+            "lessons": [
+              {
+                "id": 1,
+                "title": "Hello! - Olá!",
+                "description": "Aprenda saudações básicas em inglês",
+                "exercises": [
+                  {
+                    "id": 1,
+                    "type": "pronunciation",
+                    "title": "Cumprimente o Avatar",
+                    "referenceText": "Hello, my name is John",
+                    "description": "Pratique a pronúncia de uma saudação simples"
+                  },
+                  {
+                    "id": 2,
+                    "type": "dialogue",
+                    "title": "Diálogo: Apresentação",
+                    "referenceText": "Hi, I'm Sarah. Nice to meet you.",
+                    "description": "Pratique uma apresentação formal"
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "title": "Who are you? - Quem é você?",
+                "description": "Aprenda a fazer e responder perguntas sobre identidade",
+                "exercises": [
+                  {
+                    "id": 3,
+                    "type": "pronunciation",
+                    "title": "Responda a Pergunta",
+                    "referenceText": "My name is Maria",
+                    "description": "Pratique respondendo perguntas sobre seu nome"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "moduleNumber": 2,
+            "title": "Meu Mundo",
+            "description": "Descrever pessoas, objetos e lugares próximos",
+            "focusArea": "Descrições pessoais e de objetos",
+            "grammarFocus": "Artigos (A/An/The). Plurais. Demonstrativos (This/That/These/Those)",
+            "lessons": [
+              {
+                "id": 3,
+                "title": "Describing People - Descrevendo Pessoas",
+                "description": "Aprenda a descrever características físicas",
+                "exercises": [
+                  {
+                    "id": 4,
+                    "type": "pronunciation",
+                    "title": "Descreva uma Pessoa",
+                    "referenceText": "She has long black hair",
+                    "description": "Pratique descrevendo uma pessoa"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "moduleNumber": 3,
+            "title": "Rotina Diária",
+            "description": "Falar sobre hábitos e atividades do dia a dia",
+            "focusArea": "Atividades diárias e rotina",
+            "grammarFocus": "Simple Present (Afirmativa, Negativa, Interrogativa). Advérbios de Frequência",
+            "lessons": []
+          },
+          {
+            "id": 4,
+            "moduleNumber": 4,
+            "title": "Na Cidade",
+            "description": "Pedir e dar direções simples. Identificar locais comuns",
+            "focusArea": "Direções e locais públicos",
+            "grammarFocus": "Preposições de Lugar (In, On, At, Next to). Imperativo",
+            "lessons": []
+          },
+          {
+            "id": 5,
+            "moduleNumber": 5,
+            "title": "Comida e Restaurantes (Básico)",
+            "description": "Pedir comida e bebida em um restaurante simples",
+            "focusArea": "Conversação em restaurantes",
+            "grammarFocus": "Verbos Modais (Can/Can't). Countable/Uncountable Nouns (Some/Any)",
+            "lessons": []
+          },
+          {
+            "id": 6,
+            "moduleNumber": 6,
+            "title": "Compras e Preços",
+            "description": "Perguntar o preço, comprar itens e falar sobre dinheiro",
+            "focusArea": "Compras e transações comerciais",
+            "grammarFocus": "Números (0-1000). Perguntas com 'How much/many'. Possessivos",
+            "lessons": []
+          },
+          {
+            "id": 7,
+            "moduleNumber": 7,
+            "title": "Passado Simples",
+            "description": "Falar sobre eventos que aconteceram ontem ou na semana passada",
+            "focusArea": "Eventos passados",
+            "grammarFocus": "Simple Past (Verbos Regulares e Irregulares). Expressões de Tempo no Passado",
+            "lessons": []
+          },
+          {
+            "id": 8,
+            "moduleNumber": 8,
+            "title": "Viagem (Básico)",
+            "description": "Fazer check-in em hotel e perguntar sobre horários de transporte",
+            "focusArea": "Viagens e hospedagem",
+            "grammarFocus": "Future com 'Going to'. Perguntas com 'When/Where'",
+            "lessons": []
+          },
+          {
+            "id": 9,
+            "moduleNumber": 9,
+            "title": "Saúde e Sentimentos",
+            "description": "Descrever como se sente e falar sobre problemas de saúde simples",
+            "focusArea": "Saúde e bem-estar",
+            "grammarFocus": "Present Continuous. Vocabulário de Corpo e Saúde",
+            "lessons": []
+          },
+          {
+            "id": 10,
+            "moduleNumber": 10,
+            "title": "Revisão e Planejamento",
+            "description": "Revisão das estruturas básicas e planejamento de atividades futuras",
+            "focusArea": "Consolidação do aprendizado",
+            "grammarFocus": "Revisão Geral dos Tempos Verbais e Estruturas do Básico",
+            "lessons": []
+          }
+        ]
+      },
+      {
+        "level": "intermediate",
+        "title": "Nível Intermediário",
+        "description": "Aprofunde em estruturas gramaticais e conversas mais complexas",
+        "modules": [
+          {
+            "id": 11,
+            "moduleNumber": 11,
+            "title": "Viagens Internacionais (Avançado)",
+            "description": "Check-in em aeroporto, alfândega, conversas com agentes de imigração",
+            "focusArea": "Viagens internacionais e aeroporto",
+            "grammarFocus": "Present Perfect. Comparativos e Superlativos",
+            "lessons": []
+          },
+          {
+            "id": 12,
+            "moduleNumber": 12,
+            "title": "Aluguel de Carros e Transporte",
+            "description": "Alugar um carro, entender termos de seguro, pedir informações sobre rotas",
+            "focusArea": "Aluguel de carros e transportes",
+            "grammarFocus": "Verbos Modais (Must, Should, May, Might). Voz Passiva",
+            "lessons": []
+          },
+          {
+            "id": 13,
+            "moduleNumber": 13,
+            "title": "Restaurantes e Culinária (Avançado)",
+            "description": "Reservar mesa, entender o menu, expressar satisfação/insatisfação",
+            "focusArea": "Experiências gastronômicas avançadas",
+            "grammarFocus": "Reported Speech. Expressões Idiomáticas",
+            "lessons": []
+          },
+          {
+            "id": 14,
+            "moduleNumber": 14,
+            "title": "Vida Profissional",
+            "description": "Falar sobre o trabalho, descrever responsabilidades e participar de reuniões",
+            "focusArea": "Contexto profissional",
+            "grammarFocus": "Gerúndio e Infinitivo. Phrasal Verbs",
+            "lessons": []
+          },
+          {
+            "id": 15,
+            "moduleNumber": 15,
+            "title": "Opiniões e Argumentos",
+            "description": "Expressar opiniões, concordar e discordar de forma educada",
+            "focusArea": "Discussão e argumentação",
+            "grammarFocus": "Condicionais (Zero e First). Conectores de Contraste",
+            "lessons": []
+          },
+          {
+            "id": 16,
+            "moduleNumber": 16,
+            "title": "Tecnologia e Mídia",
+            "description": "Discutir notícias, redes sociais e problemas técnicos",
+            "focusArea": "Tecnologia e comunicação digital",
+            "grammarFocus": "Present Perfect Continuous. Vocabulário de Tecnologia",
+            "lessons": []
+          },
+          {
+            "id": 17,
+            "moduleNumber": 17,
+            "title": "Emergências e Imprevistos",
+            "description": "Relatar um problema, pedir ajuda em situações de emergência",
+            "focusArea": "Situações de emergência",
+            "grammarFocus": "Second Conditional. Expressões de Urgência",
+            "lessons": []
+          },
+          {
+            "id": 18,
+            "moduleNumber": 18,
+            "title": "Cultura e Entretenimento",
+            "description": "Falar sobre filmes, livros, música e planejar atividades de lazer",
+            "focusArea": "Entretenimento e cultura",
+            "grammarFocus": "Future Continuous e Future Perfect. Question Tags",
+            "lessons": []
+          },
+          {
+            "id": 19,
+            "moduleNumber": 19,
+            "title": "Habilidades e Possibilidades",
+            "description": "Falar sobre habilidades adquiridas e possibilidades futuras",
+            "focusArea": "Capacidades e perspectivas futuras",
+            "grammarFocus": "Verbos Modais (Could, Would). Expressões de Probabilidade",
+            "lessons": []
+          },
+          {
+            "id": 20,
+            "moduleNumber": 20,
+            "title": "Revisão e Transição",
+            "description": "Revisão geral do Nível Intermediário e preparação para o Nível Avançado",
+            "focusArea": "Consolidação do aprendizado intermediário",
+            "grammarFocus": "Revisão de todos os Tempos Verbais e Estruturas Complexas",
+            "lessons": []
+          }
+        ]
+      }
+    ]
+  }
+}
